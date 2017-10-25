@@ -5,7 +5,7 @@ function word_indices = processEmail(email_contents)
 %   the body of an email and returns a list of indices of the 
 %   words contained in the email. 
 %
-
+%Loooks likesomethign to me!
 % Load Vocabulary
 vocabList = getVocabList();
 
